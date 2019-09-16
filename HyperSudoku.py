@@ -93,11 +93,7 @@ class HyperSudoku:
     @staticmethod
     def printGrid(grid):
         """
-        Prints out the grid in a nice format. Feel free
-        to change this if you need to, it will NOT be 
-        used in marking. It is just to help you debug.
-
-        Use as:     HyperSudoku.printGrid(grid)
+        Prints out the grid in a nice format.
         """
         print("-"*25)
         for i in range(9):
