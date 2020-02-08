@@ -1,7 +1,5 @@
 # hyper-sudoku-solver
-A variation of Sudoku is Hyper Sudoku. It variation uses the classic 9x9 grid with 3x3 regions,
-but defines four additional interior 3x3 regions in which the numbers 1−9 must appear exactly once
-(the shaded regions in the example below).
+Hyper Sudoku is a variation of Sudoku. It uses the classic 9x9 grid with 3x3 regions, but defines four additional 3x3 interior regions in which the numbers 1−9 must appear exactly once (the shaded regions in the example below).
 
 Hyper Sudoku puzzle and solution:
 
